@@ -2,26 +2,31 @@
   {
     "id": 1,
     "title": "sakız",
-    "price": 1
+    "price": 1,
+    "image": "https://productimages.hepsiburada.net/s/22/550/9952480460850.jpg/format:webp"
   },
   {
     "id": 2,
     "title": "çikolata",
-    "price": 4
+    "price": 4,
+    "image": "https://www.mismarsanalmarket.com/UserFiles/Fotograflar/org/558-8690526096599-jpg-8690526096599.jpg"
   },
   {
     "id": 3,
     "title": "deterjan",
-    "price": 10
+    "price": 10,
+    "image": "https://ayb.akinoncdn.com/products/2021/08/03/22213/d48db058-0c73-4cee-9615-168440000ef5_size780x780_quality60_cropCenter.jpg"
   },
   {
     "id": 4,
     "title": "araba",
-    "price": 1000
+    "price": 1000,
+    "image": "https://productimages.hepsiburada.net/s/79/1500/110000021527309.jpg"
   },
   {
     "id": 5,
     "title": "kazak",
-    "price": 50
+    "price": 50,
+    "image": "https://www.luppoclub.com/image/cache/data/resimler/bisiklet-yaka-klasik-mavi-erkek-kazak-1470-550x850w.jpg"
   }
 ]
