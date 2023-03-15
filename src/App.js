@@ -28,16 +28,18 @@ function App() {
   return (
     <div className="App">
       <Header money={money} total={total} />
-      {products.map((product) => (
-        <Product
-          key={product.id}
-          basket={basket}
-          setBasket={setBasket}
-          product={product}
-          total={total}
-          money={money}
-        />
-      ))}
+      <div className="container products">
+        {products.map((product) => (
+          <Product
+            key={product.id}
+            basket={basket}
+            setBasket={setBasket}
+            product={product}
+            total={total}
+            money={money}
+          />
+        ))}
+      </div>
       <Basket total={total} products={products} basket={basket} />
       <button onClick={resetBasket}>Sıfırla</button>
     </div>
